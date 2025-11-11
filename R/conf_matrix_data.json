@@ -1,0 +1,82 @@
+{
+    "confusion_matrix_epoch_1": [
+        [
+            4648,
+            49
+        ],
+        [
+            9,
+            4274
+        ]
+    ],
+    "confusion_matrix_epoch_2": [
+        [
+            4696,
+            1
+        ],
+        [
+            12,
+            4271
+        ]
+    ],
+    "confusion_matrix_epoch_3": [
+        [
+            4694,
+            3
+        ],
+        [
+            22,
+            4261
+        ]
+    ],
+    "confusion_matrix_epoch_4": [
+        [
+            4682,
+            15
+        ],
+        [
+            12,
+            4271
+        ]
+    ],
+    "confusion_matrix_epoch_5": [
+        [
+            4685,
+            12
+        ],
+        [
+            7,
+            4276
+        ]
+    ],
+    "confusion_matrix_epoch_6": [
+        [
+            4681,
+            16
+        ],
+        [
+            7,
+            4276
+        ]
+    ],
+    "confusion_matrix_epoch_1_train": [
+        [
+            13892,
+            196
+        ],
+        [
+            14,
+            12836
+        ]
+    ],
+    "confusion_matrix_epoch_2_train": [
+        [
+            14082,
+            6
+        ],
+        [
+            25,
+            12825
+        ]
+    ]
+}
